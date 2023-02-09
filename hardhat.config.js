@@ -9,9 +9,9 @@ module.exports = {
     hardhat: {
       chainId: 1337
     },
-    ropsten: {
-      url: "https://ropsten.infura.io/v3/903ad3bdef654d9ba0a0d28b2b5d6edf",
-      accounts: [`0x437cf0472fbe1f6e654b432b43fbcd0e21979f2c721cf2666648ce66fe2fb4e8`]
+    sepolia: {
+      url: "https://sepolia.infura.io/v3/9df6818a4d8b4ba1a7e248cd56122a8e",
+      accounts: [`0x99494c6abfd7f2ccb3c6f2e5e72cda531acd5b3189e2a04b28f9660697b12800`]
     }
   }
 };
