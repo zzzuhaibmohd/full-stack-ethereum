@@ -1,5 +1,3 @@
-(https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fxq0yu3jd7qw35itdxii.jpg)
-
 ## Run on Sepolia
 
 ```
